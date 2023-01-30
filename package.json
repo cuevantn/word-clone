@@ -4,6 +4,7 @@
   "private": true,
   "author": "Josh Comeau <me@joshwcomeau.com>",
   "dependencies": {
+    "csv-parse": "^5.3.3",
     "new-component": "4.0.0",
     "prettier": "^2.6.2",
     "react": "18.2.0",
@@ -34,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
   }
 }
